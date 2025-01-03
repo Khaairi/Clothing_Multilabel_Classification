@@ -1,7 +1,3 @@
-Here's the paraphrased and improved version of your README in English:
-
----
-
 ## Clothing Multi-Label Classification
 This repository presents the implementation of a multi-label classification model designed to classify clothing attributes. The project was developed as part of the Hology Data Mining 2024 Preliminary Competition, organized by Universitas Brawijaya. It focuses on categorizing images of T-shirts and hoodies from various online stores in Indonesia based on their type (e.g., T-shirt or hoodie) and color (e.g., black, blue, white, etc.).
 
